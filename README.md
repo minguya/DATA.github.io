@@ -26,8 +26,14 @@
 * **신규 사망자**
 <img width="623" alt="신규사망자" src="https://user-images.githubusercontent.com/86412748/125388569-ad039180-e3da-11eb-816c-52ebd0821822.png">
 
-* **백신접종률**
-<img width="726" alt="백신접종율" src="https://user-images.githubusercontent.com/86412748/125388594-bab91700-e3da-11eb-880f-69b5025d5a89.png">
+* **백신 타입 비교**
+> 이스라엘/영국/미국의 COVID-19 신규확진자는 감소하고 있는 반면 칠레의 COVID-19 신규확진자는 백신접종을 진행중임에도 불구하고 상승하고 있는 양상을 띄고 있다. 
+> 칠레와 미국의 백신 타입 비교 결과 미국은 모더나/화이자 백신 비율이 높은 반면, 칠레는 시노백 백신 비율이 높은 것을 확인할 수 있다.
+> 이에 시노백 백신보다는 모더나/화이자 백신의 효과가 더 좋을 수 있다는 예측을 해볼 수 있다. 
+
+<img width="777" alt="칠레 백신" src="https://user-images.githubusercontent.com/86412748/125388995-79753700-e3db-11eb-9137-87ad4b5cf13c.png">
+<img width="777" alt="미국 백신" src="https://user-images.githubusercontent.com/86412748/125389012-7e39eb00-e3db-11eb-8900-7b614a3e4ec5.png">
+
 
 > 
 ## 2. 백신접종률이 높은 4개 국가 (칠레, 이스라엘, 영국, 미국) COVID-19 신규 확진자 예측 분석
