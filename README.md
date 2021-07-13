@@ -31,11 +31,25 @@
 > 칠레와 미국의 백신 타입 비교 결과 미국은 모더나/화이자 백신 비율이 높은 반면, 칠레는 시노백 백신 비율이 높은 것을 확인할 수 있다.
 > 이에 시노백 백신보다는 모더나/화이자 백신의 효과가 더 좋을 수 있다는 예측을 해볼 수 있다. 
 
-<img width="777" alt="칠레 백신" src="https://user-images.githubusercontent.com/86412748/125388995-79753700-e3db-11eb-9137-87ad4b5cf13c.png"><img width="777" alt="미국 백신" src="https://user-images.githubusercontent.com/86412748/125389012-7e39eb00-e3db-11eb-8900-7b614a3e4ec5.png">
+<img width="777" alt="칠레 백신" src="https://user-images.githubusercontent.com/86412748/125388995-79753700-e3db-11eb-9137-87ad4b5cf13c.png">
+<img width="777" alt="미국 백신" src="https://user-images.githubusercontent.com/86412748/125389012-7e39eb00-e3db-11eb-8900-7b614a3e4ec5.png">
 
 
-> 
 ## 2. 백신접종률이 높은 4개 국가 (칠레, 이스라엘, 영국, 미국) COVID-19 신규 확진자 예측 분석
+### Facebook Prophet을 활용한 주가 예측 모델
+
+* **칠레**
+* <img width="713" alt="칠레 확진자 예측" src="https://user-images.githubusercontent.com/86412748/125389437-29e33b00-e3dc-11eb-9974-47cbac1a61c6.png">
+
+* **이스라엘**
+* <img width="714" alt="이스라엘 확진자 예측" src="https://user-images.githubusercontent.com/86412748/125389446-2fd91c00-e3dc-11eb-85ca-4f6b1941ef14.png">
+
+* **영국**
+* <img width="714" alt="영국 확진자 예측" src="https://user-images.githubusercontent.com/86412748/125389454-323b7600-e3dc-11eb-91a1-48bbd7f9723e.png">
+
+* **미국**
+* <img width="713" alt="미국 확진자 예측" src="https://user-images.githubusercontent.com/86412748/125389463-35cefd00-e3dc-11eb-9b37-dc434468ab5e.png">
+
 
 
 
