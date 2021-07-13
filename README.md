@@ -16,7 +16,7 @@
 
 
 
-## 1. 백신접종률이 높은 4개 국가 (칠레, 이스라엘, 영국, 미국) COVID-19 데이터 분석
+## 1-1. 백신접종률이 높은 4개 국가 (칠레, 이스라엘, 영국, 미국) COVID-19 데이터 분석
 > COVID-19 백신접종률이 높은 4개 국가 칠레/이스라엘/영국/미국의 COVID-19 신규확진자, 신규사망자, 백신접종률에 대한 데이터 분석을 진행한다. 
 * **신규 확진자**
 <img width="629" alt="신규확진자" src="https://user-images.githubusercontent.com/86412748/125388543-a248fc80-e3da-11eb-9c59-63ddb182f561.png">
@@ -35,21 +35,30 @@
 <img width="777" alt="미국 백신" src="https://user-images.githubusercontent.com/86412748/125389012-7e39eb00-e3db-11eb-8900-7b614a3e4ec5.png">
 
 
-## 2. 백신접종률이 높은 4개 국가 (칠레, 이스라엘, 영국, 미국) COVID-19 신규 확진자 예측 분석
+## 1-2. 백신접종률이 높은 4개 국가 (칠레, 이스라엘, 영국, 미국) COVID-19 신규 확진자 예측 분석
 ### Facebook Prophet을 활용한 주가 예측 모델
 
 * **칠레**
-* <img width="713" alt="칠레 확진자 예측" src="https://user-images.githubusercontent.com/86412748/125389437-29e33b00-e3dc-11eb-9974-47cbac1a61c6.png">
+<img width="713" alt="칠레 확진자 예측" src="https://user-images.githubusercontent.com/86412748/125389437-29e33b00-e3dc-11eb-9974-47cbac1a61c6.png">
 
 * **이스라엘**
-* <img width="714" alt="이스라엘 확진자 예측" src="https://user-images.githubusercontent.com/86412748/125389446-2fd91c00-e3dc-11eb-85ca-4f6b1941ef14.png">
+<img width="714" alt="이스라엘 확진자 예측" src="https://user-images.githubusercontent.com/86412748/125389446-2fd91c00-e3dc-11eb-85ca-4f6b1941ef14.png">
 
 * **영국**
-* <img width="714" alt="영국 확진자 예측" src="https://user-images.githubusercontent.com/86412748/125389454-323b7600-e3dc-11eb-91a1-48bbd7f9723e.png">
+<img width="714" alt="영국 확진자 예측" src="https://user-images.githubusercontent.com/86412748/125389454-323b7600-e3dc-11eb-91a1-48bbd7f9723e.png">
 
 * **미국**
-* <img width="713" alt="미국 확진자 예측" src="https://user-images.githubusercontent.com/86412748/125389463-35cefd00-e3dc-11eb-9b37-dc434468ab5e.png">
+<img width="713" alt="미국 확진자 예측" src="https://user-images.githubusercontent.com/86412748/125389463-35cefd00-e3dc-11eb-9b37-dc434468ab5e.png">
 
+
+## 2-1. 대한민국 COVID-19 데이터 분석
+> 대한민국의 COVID-19 신규확진자, 신규사망자, 백신접종률에 대한 데이터 분석을 진행한다. 
+
+* **신규 확진자**
+<img width="618" alt="한국 신규확진자" src="https://user-images.githubusercontent.com/86412748/125390206-6ebba180-e3dd-11eb-8e27-b3d6d78fc1bf.png">
+
+* **신규 사망자**
+<img width="606" alt="한국 신규사망자" src="https://user-images.githubusercontent.com/86412748/125390216-72e7bf00-e3dd-11eb-84f3-82b34e0c914c.png">
 
 
 
