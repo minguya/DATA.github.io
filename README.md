@@ -18,7 +18,14 @@
 
 ## 1. 백신접종률이 높은 4개 국가 (칠레, 이스라엘, 영국, 미국) COVID-19 데이터 분석
 > COVID-19 백신접종률이 높은 4개 국가 칠레/이스라엘/영국/미국의 COVID-19 신규확진자, 신규사망자, 백신접종률에 대한 데이터 분석을 진행한다. 
-> 이스라엘/영국/
+* **신규 확진자**
+* <img width="629" alt="신규확진자" src="https://user-images.githubusercontent.com/86412748/125388543-a248fc80-e3da-11eb-9c59-63ddb182f561.png">
+
+* **신규 사망자**
+* <img width="623" alt="신규사망자" src="https://user-images.githubusercontent.com/86412748/125388569-ad039180-e3da-11eb-816c-52ebd0821822.png">
+
+* **백신접종률**
+* <img width="726" alt="백신접종율" src="https://user-images.githubusercontent.com/86412748/125388594-bab91700-e3da-11eb-880f-69b5025d5a89.png">
 
 
 ## 2. 백신접종률이 높은 4개 국가 (칠레, 이스라엘, 영국, 미국) COVID-19 신규 확진자 예측 분석
