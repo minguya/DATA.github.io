@@ -31,8 +31,7 @@
 > 칠레와 미국의 백신 타입 비교 결과 미국은 모더나/화이자 백신 비율이 높은 반면, 칠레는 시노백 백신 비율이 높은 것을 확인할 수 있다.
 > 이에 시노백 백신보다는 모더나/화이자 백신의 효과가 더 좋을 수 있다는 예측을 해볼 수 있다. 
 
-<img width="777" alt="칠레 백신" src="https://user-images.githubusercontent.com/86412748/125388995-79753700-e3db-11eb-9137-87ad4b5cf13c.png">
-<img width="777" alt="미국 백신" src="https://user-images.githubusercontent.com/86412748/125389012-7e39eb00-e3db-11eb-8900-7b614a3e4ec5.png">
+<img width="777" alt="칠레 백신" src="https://user-images.githubusercontent.com/86412748/125388995-79753700-e3db-11eb-9137-87ad4b5cf13c.png"><img width="777" alt="미국 백신" src="https://user-images.githubusercontent.com/86412748/125389012-7e39eb00-e3db-11eb-8900-7b614a3e4ec5.png">
 
 
 > 
