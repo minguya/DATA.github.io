@@ -34,7 +34,7 @@
 
 
 ## 1-2. 백신접종률이 높은 4개 국가 (칠레, 이스라엘, 영국, 미국) COVID-19 신규 확진자 예측 분석
-### Facebook Prophet을 활용한 주가 예측 모델
+### Facebook Prophet을 활용한 예측 모델
 
 * **칠레**
 <img width="713" alt="칠레 확진자 예측" src="https://user-images.githubusercontent.com/86412748/125389437-29e33b00-e3dc-11eb-9974-47cbac1a61c6.png">
@@ -59,7 +59,7 @@
 <img width="606" alt="한국 신규사망자" src="https://user-images.githubusercontent.com/86412748/125390216-72e7bf00-e3dd-11eb-84f3-82b34e0c914c.png">
 
 ## 2-2. 대한민국 COVID-19 신규 확진자 예측 분석
-### Facebook Prophet을 활용한 주가 예측 모델
+### Facebook Prophet을 활용한 예측 모델
 
 * **대한민국**
 <img width="713" alt="한국 확진자 예측" src="https://user-images.githubusercontent.com/86412748/125390325-a9bdd500-e3dd-11eb-9a65-5fc4b5af7222.png">
